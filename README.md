@@ -14,7 +14,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![DirectX](https://img.shields.io/badge/-DirectX-gray?style=for-the-badge)
-![ImGui](https://img.shields.io/badge/-ImGui-gray?style=for-the-badge)
+![ImGui](https://img.shields.io/badge/-ImGui-blue?style=for-the-badge)
 ![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=for-the-badge&logo=vulkan)
 
 # 💻 Operating Systems
