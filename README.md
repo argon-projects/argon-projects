@@ -31,4 +31,4 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=argon-projects&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argon-projects&theme=tokyonight&show_icons=true)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argon-projects&theme=tokyonight&show_icons=true)
