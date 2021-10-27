@@ -18,6 +18,7 @@
 ![ImGui](https://img.shields.io/badge/-ImGui-blue?style=for-the-badge&logo=ImGui&logoColor=white)
 ![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=for-the-badge&logo=vulkan)
 ![Webasm](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 # 💻 Operating Systems
 
