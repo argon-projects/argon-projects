@@ -34,7 +34,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=argon-projects&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argon-projects&theme=tokyonight&show_icons=true)
-
+![Info](https://github-readme-streak-stats.herokuapp.com/?username=argon-projects&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=argon-projects&color=50CF7E&style=flat-square)
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argon-projects&theme=tokyonight&show_icons=true)
