@@ -17,6 +17,7 @@
 ![WPF](https://img.shields.io/badge/-WPF-0078D6?logo=windows&style=for-the-badge)
 ![ImGui](https://img.shields.io/badge/-ImGui-blue?style=for-the-badge&logo=ImGui&logoColor=white)
 ![Vulkan Badge](https://img.shields.io/badge/-Vulkan-AC162C?style=for-the-badge&logo=vulkan)
+![Webasm](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 
 # 💻 Operating Systems
 
