@@ -1,7 +1,7 @@
 # About me
-#### Hey, I am a very interested programmer, my main languages are C/C++ and C#.
-#### At the moment I am focusing on Webassembly.
-#### My current projects are libraries for C/C++ and C# to make programming easier.
+<center>Hey, I am a very interested programmer, my main languages are C/C++ and C#.</center>
+<center>At the moment I am focusing on Webassembly.</center>
+<center>My current projects are libraries for C/C++ and C# to make programming easier.</center>
 
 # ⚡ Languages
 
