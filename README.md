@@ -1,7 +1,7 @@
 # About me
 #### Hey, I am a very interested programmer, my main languages are C/C++/C#/ASM and Rust.
-#### At the moment I am focusing on Webassembly.
-#### My current projects are libraries for C/C++ and C# to make programming easier.
+#### At the moment I am focusing on Vulkan.
+#### My current projects are Kernel Coding/Reversing for Windows.
 
 # ⚡ Languages
 
