@@ -1,6 +1,6 @@
 # About me
 #### Hey, I am a very interested programmer, my main languages are C, C++, C#, ASM and Rust.
-#### At the moment I am focusing on Vulkan.
+#### At the moment I am focusing on Anticheat Development.
 #### My current projects are Kernel Coding/Reversing Windows.
 
 # ⚡ Languages
